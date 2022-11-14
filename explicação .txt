@@ -1,0 +1,19 @@
+/* O número de entrevistados que deverão responder a
+		enquete é de 200.
+		O aplicativo perguntará o
+		- Tipo de animal : (1- Cão Pequeno, 2- Cão Grande, 3- Gato, 4-
+		Roedor);
+		- Idade aproximada;
+		- Gasto Mensal com Alimentação;
+		- Gasto Mensal com higiene (Banho e Tosa);
+		Armazene essas informações em vetores, onde o primeiro animal cadastrado terá suas informações
+		armazenadas no índice 0 (zero) de cada um dos vetores, o segundo animal terá suas informações
+		cadastradas no índice 1... e assim sucessivamente.
+		O programa deverá:
+		
+		a) Fazer a validação de dados no campo Tipo de Animal, impedindo que sejam aceitos valores
+		diferentes de 1, 2, 3 ou 4 ; (0,6 pt)
+		b) Mostrar a contagem do número de Cães Pequenos e Gatos (separadamente); (0,6 pt)
+		c) Mostrar a média de idade de todos os Cães(todos) (0,6 pt)
+		d) Guardar em outro vetor somente os Gastos Mensais de Roedores com Alimentação; (0,6 pt)
+		e) Mostrar o maior e menor valor com Higiene (Geral) (0,6 pt)   
